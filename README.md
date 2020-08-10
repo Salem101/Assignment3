@@ -1,5 +1,6 @@
 # Assignment3
 ============================================================================
+Project 1:
 
 Part 1: 
 ----------------------------------------------------------------------------
@@ -9,3 +10,11 @@ I created this webpage using the basics of HTML & CSS.
 
 Part 2: 
 ----------------------------------------------------------------------------
+I created a resume for applying to internships. I used a resume template and filled out all my information. 
+I used the feature 'update automatically' so it will display the current date. 
+
+Project 2: 
+
+Part 1:
+----------------------------------------------------------------------------
+Phone number verification: For this I used 

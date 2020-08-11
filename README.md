@@ -20,3 +20,9 @@ Project 2:
 Part 1:
 ----------------------------------------------------------------------------
 Phone number verification: For this I used 
+
+Part 2: 
+----------------------------------------------------------------------------
+Credit Card Verification I researched Luhn's Alogrithm and created a simple Java program which tests if the cc # entered is valid. 
+
+

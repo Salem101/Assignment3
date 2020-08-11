@@ -19,7 +19,8 @@ Project 2:
 
 Part 1:
 ----------------------------------------------------------------------------
-Phone number verification: For this I used 
+Phone number verification: For this I used scanner to get the phone number from user with if else statements. 
+If it matches (xxx)xxx-xxxx, xxxxxxxxxx, xxx-xxx-xxxx, or (xxx)xxxxxxx then it will be valid. Else: invalid
 
 Part 2: 
 ----------------------------------------------------------------------------

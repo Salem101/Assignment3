@@ -27,3 +27,8 @@ Part 2:
 Credit Card Verification I researched Luhn's Alogrithm and created a simple Java program which tests if the cc # entered is valid. 
 
 
+Project 3: 
+
+Part 1: 
+----------------------------------------------------------------------------
+Pong Game: In Java Script using p5.js library. (Got some help from tutorials)
